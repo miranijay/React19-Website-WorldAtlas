@@ -496,7 +496,7 @@ ul {
 /* contact us page  */
 
 .section-contact {
-    margin: 9.6rem auto;
+    margin: 6.6rem auto;
 
     & hr {
         border-color: rgba(255, 255, 255, 0.6);
@@ -510,7 +510,7 @@ ul {
     & form {
         display: flex;
         flex-direction: column;
-        gap: 3.2rem;
+        gap: 1.7rem;
         width: 100%;
         max-width: 48rem;
 
@@ -523,7 +523,7 @@ ul {
             outline: none;
             border: 0.1rem solid rgba(255, 255, 255, 0.4);
             padding: 1.2rem 1.6rem;
-            border-radius: 0.3rem;
+            border-radius: 0.5rem;
         }
     }
 }
