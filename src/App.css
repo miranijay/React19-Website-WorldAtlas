@@ -31,6 +31,7 @@ button {
     letter-spacing: 0.1rem;
     line-height: 1.6;
     color: #fff;
+    text-align: justify;
 }
 
 li {
@@ -168,7 +169,7 @@ nav ul {
 
 .heading-xl {
     font-family: inherit;
-    font-size: clamp(4.2rem, 6vw, 4.241rem);
+    font-size: clamp(4.2rem, 4vw, 4.241rem);
     font-weight: 700;
     line-height: 1.15;
     letter-spacing: -1px;
@@ -217,10 +218,10 @@ nav ul {
     text-align: center;
     padding: 0 !important;
     margin-bottom: 40px;
-    font-size: 40px;
+    font-size: 38px;
     color: #fff;
     font-weight: 600;
-    line-height: 60px;
+    line-height: 55px;
 }
 
 .card {
@@ -236,7 +237,7 @@ nav ul {
     background: linear-gradient(71deg, #080509, #1a171c, #080509);
     background-clip: padding-box;
     border-radius: 45px;
-    padding: 40px;
+    padding: 30px;
 }
 
 .bg-green-box,
