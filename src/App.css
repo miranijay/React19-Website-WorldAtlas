@@ -388,14 +388,14 @@ ul {
 
     & .grid {
         gap: 3.2rem;
-        max-width: 132rem;
+        max-width: 112rem;
         margin: auto;
     }
 
     & img {
         width: 100%;
         max-width: 50rem;
-        height: 16rem;
+        height: 12rem;
     }
 }
 
@@ -555,8 +555,7 @@ ul {
     }
 }
 
-/* //Loader  */
-/* HTML: <div class="loader"></div> */
+/*   Loader  */
 .loader {
     width: 50px;
     padding: 8px;
