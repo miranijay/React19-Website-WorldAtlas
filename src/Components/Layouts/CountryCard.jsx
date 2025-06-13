@@ -13,7 +13,7 @@ const CountryCard = ({ country }) => {
             <div className="countryInfo">
                 <p className="card-title">
                     {
-                        name?.common.length > 10
+                        name?.common?.length > 10
                             ? name?.common.slice(0,10) + "..."
                             : name?.common 
                     }
