@@ -455,6 +455,9 @@ ul {
         text-transform: capitalize;
         color: rgba(255, 255, 255, 0.8);
         border: 0.05rem solid #fff;
+        border-radius: 5rem;
+        outline: none;
+        padding: 0.8rem 2.4rem;
         background: linear-gradient(71deg, #080509, #1a171c, #080509);
     }
 
